@@ -1,5 +1,7 @@
 # hdbg - Historical Debugger
 
+# This is in no way a finished product. Do not use this for anything.
+
 `hdbg` extends the python debugger to print any line/call/return
 to the screen so that the flow of the program can be inspected
 after the fact.
